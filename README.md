@@ -38,7 +38,7 @@ A desktop application built with **C#** and **Windows Forms (.NET)** that simula
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/YourUsername/Pizza-Order-System.git](https://github.com/YourUsername/Pizza-Order-System.git)
+   
     ```
 2.  Open the solution file (`.sln`) in **Visual Studio**.
 3.  Ensure you have the **.NET Framework** installed.
